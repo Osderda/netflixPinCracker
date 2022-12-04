@@ -9,6 +9,9 @@ Bu araç ile 1 saatte kırabilirsiniz.
 Doğru kod girildiğinde, yazılım bunu algılayamaz, bu nedenle kodları denerken
 hangi numaraları denediğini takip et.
 
+# Gereksinim
+Klavye paketinin yanı sıra Python'un da kurulu olması gerekir.
+
 # Kullanım
 
 - miner.py dosyasını çalıştırın.
