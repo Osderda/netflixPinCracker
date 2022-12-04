@@ -10,6 +10,9 @@ It starts from 0000 and tries up to 9999 (you can also set the start and end you
 When the correct code is entered, the software cannot detect it, so when trying the codes,
 keep track of what numbers they are trying.
 
+# Pre-requirements
+You will need to have Python installed as well as the keyboard package.
+
 # Use
 
 - Run the miner.py file.
